@@ -6,6 +6,7 @@
   "license": "UNLICENSED",
   "private": true,
   "scripts": {
+    "start": "live-server",
     "test": "karma start",
     "postinstall": "curl -s https://raw.githubusercontent.com/reactorcore/pomander/master/bin/install | bash"
   },
